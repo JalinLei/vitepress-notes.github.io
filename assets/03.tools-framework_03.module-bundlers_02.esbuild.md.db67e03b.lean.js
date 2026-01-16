@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./app.eb270445.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03.tools-framework/03.module-bundlers/02.esbuild.md"}'),r={name:"03.tools-framework/03.module-bundlers/02.esbuild.md"};function s(a,n,d,c,l,_){return t(),o("div")}const p=e(r,[["render",s]]);export{m as __pageData,p as default};
